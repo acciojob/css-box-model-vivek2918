@@ -2,15 +2,18 @@
 /* Your CSS Code here. */
 .container{
 	border:1px solid black;
-	width:431px;
-	height:230px;
-	display:flex;
+	width:420px;
+    display:flex;
+	padding:20px;
 }
 .main{
-	width:300px;
 	background-color:rgb(1,174,191);
-	padding:50px;
+	padding:25px 25px;
 	border:15px solid blue;
+}
+.para{
+	width:280px;
+	border:1px solid black;
+	padding:25px 10px;
 	margin:20px;
-	
 }
